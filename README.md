@@ -9,7 +9,7 @@
 - 🌱 Learning DSA, GenAI and Full-Stack Development
 
 ## Tech Stack
-Python | JavaScript | React | Node.js | SQL | Git
+C++ | Python | JavaScript | React | Node.js | SQL | Git
 
 ## Projects
 - FlashForge – AI Content Detection System using SigLIP 2
