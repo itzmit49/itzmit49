@@ -1,6 +1,5 @@
 # Hi, I'm Amit Kumar 👋
-
-💻 Aspiring Software Development Engineer (SDE)
+🚀 Aspiring SDE | GenAI & Full-Stack Developer
 
 ## About Me
 - 🎓 B.Tech Student
