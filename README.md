@@ -8,8 +8,16 @@
 - 🤖 Building AI-powered applications
 - 🌱 Learning DSA, GenAI and Full-Stack Development
 
-## Tech Stack
-C++ | Python | JavaScript | React | Node.js | SQL | Git
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mysql,git,github,vscode" />
+</p>
+
+## 🤖 Interests
+
+Generative AI • LLMs • RAG • LangChain • Full-Stack Development
 
 ## Projects
 - FlashForge – AI Content Detection System using SigLIP 2
