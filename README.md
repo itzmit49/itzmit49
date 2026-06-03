@@ -1,40 +1,18 @@
-## Hi there 👋
+# Hi, I'm Amit Kumar 👋
 
-<!--
-**itzmit49/itzmit49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to colla# Hi, I'm Amit Kumar 👋
-
-🚀 AI & Full-Stack Developer
+💻 Aspiring Software Development Engineer (SDE)
 
 ## About Me
 - 🎓 B.Tech Student
-- 🤖 Exploring Generative AI & LLMs
-- 💻 Building Full-Stack Applications
-- 🌱 Learning Backend Engineering
+- 🚀 Interested in Software Engineering & Web Development
+- 🤖 Building AI-powered applications
+- 🌱 Learning DSA, GenAI and Full-Stack Development
 
 ## Tech Stack
-Python • JavaScript • React • Node.js • SQL • Git • LangChain
+Python | JavaScript | React | Node.js | SQL | Git
 
-## Featured Projects
-### FlashForge
-AI Content Detection using SigLIP 2
-
-### Waste-to-Wallet
-Smart waste management platform
-
-### Agency.ai
-AI-powered business automation platform
-
-## Connect
-📧 itzmit49@gmail.comborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- FlashForge – AI Content Detection System using SigLIP 2
+- VittaAI – Full-stack AI-powered financial decision-making platform
+- Waste-to-Wallet – Web platform connecting waste collectors and recyclers
+- Agency.ai – AI automation platform for business workflows
