@@ -19,7 +19,7 @@
 Generative AI • LLMs • RAG • LangChain • Full-Stack Development
 
 ## Projects
-- FlashForge – AI Content Detection System using SigLIP 2
+- FlashForge – AI-powered flashcards that turn complex study material into smarter, faster learning.
 - VittaAI – Full-stack AI-powered financial decision-making platform
 - Waste-to-Wallet – Web platform connecting waste collectors and recyclers
 - Agency.ai – AI automation platform for business workflows
