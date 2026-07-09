@@ -18,6 +18,18 @@
 
 Generative AI • LLMs • RAG • LangChain • Full-Stack Development
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzmit49&theme=github_dark)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzmit49&theme=github_dark)
+
+## 📈 Contribution Overview
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzmit49&theme=github_dark)
+
 
 ## Projects
 - FlashForge – AI-powered flashcards that turn complex study material into smarter, faster learning.
