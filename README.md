@@ -32,7 +32,6 @@ Generative AI • LLMs • RAG • LangChain • Full-Stack Development
 
 
 ## Projects
+- YouBot – AI-powered chatbot platform for intelligent, real-time conversations and personalized assistance.
 - FlashForge – AI-powered flashcards that turn complex study material into smarter, faster learning.
-- VittaAI – Full-stack AI-powered financial decision-making platform
-- Waste-to-Wallet – Web platform connecting waste collectors and recyclers
-- Agency.ai – AI automation platform for business workflows
+- Inventra AI – AI-powered platform for intelligent automation, innovation, and smarter business solutions.
