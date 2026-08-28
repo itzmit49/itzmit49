@@ -30,8 +30,10 @@ Generative AI • LLMs • RAG • LangChain • Full-Stack Development
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzmit49&theme=github_dark)
 
+## 🚀 Projects
 
-## Projects
-- YouBot – AI-powered chatbot platform for intelligent, real-time conversations and personalized assistance.
-- FlashForge – AI-powered flashcards that turn complex study material into smarter, faster learning.
-- Inventra AI – Platform for intelligent automation, innovation, and smarter business solutions.
+- YouBot – An AI-powered browser extension that lets users ask questions about any YouTube video and receive intelligent, context-aware answers based on its content.
+
+- ResearchMin – AI-powered research platform designed to simplify research, analyze information, and provide intelligent insights from complex content.
+
+
