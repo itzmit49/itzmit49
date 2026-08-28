@@ -16,7 +16,7 @@
 
 ## 🤖 Interests
 
-Generative AI • LLMs • RAG • LangChain • Full-Stack Development
+Generative AI • LLMs • RAG • LangChain • LangGraph • Full-Stack Development
 
 ## 📊 GitHub Stats
 
